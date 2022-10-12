@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @panasyg
+- 👀 DevOps metodology lover
+- 🌱 Currently learning K8s
+- 📫 @panasyg in all posible socials
